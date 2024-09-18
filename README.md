@@ -12,8 +12,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=savionnadar&theme=city_lights&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=savionnadar&theme=city_lights&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=savionnadar&theme=prussian&no-frame=true&no-bg=true&margin-w=4)
+[comment] ## 🏆 GitHub Trophies
+[comment] ![](https://github-profile-trophy.vercel.app/?username=savionnadar&theme=prussian&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
