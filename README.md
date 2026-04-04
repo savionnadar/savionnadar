@@ -1,7 +1,4 @@
-### ✍ daily dev quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-## 💫 about me:
+## 💫 About me:
 ✨ I'm currently developing a web application that uses a real-time database to provide a dynamic user experience.<br><br>🤝 I'm looking to collaborate on projects that involve building scalable and efficient backend systems.<br><br>👀 I'm looking for help with understanding cloud infrastructure and deployment strategies.<br><br>🌱 I'm currently learning and enhancing my skillset in React for seamless frontend UI/UX's.<br><br>💬 Ask me about my experience with front-end frameworks like React or my thoughts on accessibility in web design.<br><br>⚡ Fun fact: I read a minimum of 2 articles daily staying up to date with the latest tech.
 
 ## 💻 skillset:
