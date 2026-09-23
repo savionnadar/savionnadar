@@ -19,21 +19,21 @@
 
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
-  <img width="50" />
+  <img width="30" />
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
-  <img width="50" />
+  <img width="30" />
   <img src="https://skillicons.dev/icons?i=css" height="45" alt="css logo"  />
-  <img width="50" />
+  <img width="30" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
-  <img width="50" />
+  <img width="30" />
   <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
-  <img width="50" />
+  <img width="30" />
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
-  <img width="50" />
+  <img width="30" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
-  <img width="50" />
+  <img width="30" />
   <img src="https://skillicons.dev/icons?i=bash" height="45" alt="bash logo"  />
-  <img width="50" />
+  <img width="30" />
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="45" alt="c logo"  />
 </div>
 
