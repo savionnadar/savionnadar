@@ -7,7 +7,7 @@
 
 As a self-taught web developer, I build from the ground up to turn code into emotion. I don't just engineer functional interfaces; I craft digital spaces designed to make people feel a lasting impression. 
 
-I have applied this philosophy to develop platforms like the **uMatter** application and the **DBIS Model United Nations** website—projects where intuitive design and user resonance are just as critical as the underlying architecture.
+I have applied this philosophy to develop platforms like the **[uMatter](https://umatter.dbis.in/)** application and the **[DBIS Model United Nations](https://www.dbismun.org/)** website—projects where intuitive design and user resonance are just as critical as the underlying architecture.
 
 - **Current Focus:** Architecting immersive, full-stack web applications with **Next.js** and **React**.
 
